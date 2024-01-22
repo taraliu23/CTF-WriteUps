@@ -33,7 +33,7 @@ python volatility3-1.0.0/vol.py -f KnightSquad.DMP windows.info
 ![20240120result](https://github.com/drunken-boat/CTF-WriteUps/assets/80751447/ad958a43-6ee0-4965-ac38-7ae8409c3cc5)
 
 ### Step 3: flag
-~~`KCTF{6.1.7601.24214}` ~~
+~~`KCTF{6.1.7601.24214}`~~
 
 but win7=win6.1
 
