@@ -38,3 +38,9 @@ python volatility3-1.0.0/vol.py -f KnightSquad.DMP windows.info
 but win7=win6.1
 
 `KCTF{7.1.7601.24214}` (correct!)
+
+## A Better Solution
+
+Use WinDbg Tool - Analyze and you can get the direct correct answer!
+
+Reference: (Saran's write-up)[https://medium.com/@SaranGintoki/knightctf-2024-writeup-95f31e746435]
